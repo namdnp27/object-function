@@ -36,11 +36,5 @@ body {
   background: var(--primary-color);
   color: var(--secondary-color);
   font-size: 18px;
-  padding: 6px 4px;
-}
-
-/* label - child element of .content*/
-label {
-  position: absolute;
-  top: 60%;
+  padding: 6px 8px;
 }
